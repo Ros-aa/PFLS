@@ -1,3 +1,4 @@
+mkdir -p COMBINED-DATA
 MAG_counter=1
 BIN_counter=1
 
